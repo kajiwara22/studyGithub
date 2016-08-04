@@ -1,3 +1,3 @@
 # studyGithub
-Githubのお勉強をしよう。
+Githubのお勉強をがしがししよう。
 
